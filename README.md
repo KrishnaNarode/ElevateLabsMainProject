@@ -1,1 +1,1 @@
-# ElevateLabsMainProject
+This project, Real Estate Listings and Analytics, uses PostgreSQL and DBeaver to manage and analyze property listings. It includes a structured database with tables for agents, buyers, properties, and transactions. SQL queries are used to calculate average prices by region, identify high-demand areas, and generate price trend reports using window functions. The results of key analyses—such as property data, regional price averages, high-demand areas, and price trends—are exported as CSV files for easy reporting and visualization.
