@@ -1,0 +1,5 @@
+property_id,address,region,price,listed_date,agent_id
+1,"123 Park St",Pune,7500000.00,2025-01-10,1
+2,"45 MG Road",Mumbai,12000000.00,2025-02-05,2
+3,"78 Hill View",Pune,6800000.00,2025-03-15,1
+4,"90 Ocean Drive",Goa,9500000.00,2025-04-20,2
